@@ -54,3 +54,7 @@
 .error {
     color: #ff5656;
 }
+
+.success {
+    color: green;
+}
