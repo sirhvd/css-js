@@ -9,8 +9,8 @@
 // @grant       GM_setValue
 // @require     https://code.jquery.com/jquery-3.6.1.min.js
 // @require     https://cdnjs.cloudflare.com/ajax/libs/select2/3.5.4/select2.min.js
-// @updateURL https://gist.githubusercontent.com/sirhvd/4f3f6eeb10c621184f5041e40dc73ffc/raw/
-// @downloadURL https://gist.githubusercontent.com/sirhvd/4f3f6eeb10c621184f5041e40dc73ffc/raw/
+// @updateURL   https://sirhvd.github.io/css-js/my.js
+// @downloadURL https://sirhvd.github.io/css-js/my.js
 // @version     1.0
 // ==/UserScript==
 
