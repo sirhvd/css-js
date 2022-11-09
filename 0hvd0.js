@@ -2,7 +2,7 @@
 // @name        Executor
 // @namespace   Executor
 // @author      sirhvd
-// @include     *://localhost:13172
+// @include     *://localhost:13172*
 // @run-at      document-start
 // @grant       GM_addStyle
 // @grant       GM_getValue
@@ -11,7 +11,7 @@
 // @require     https://cdnjs.cloudflare.com/ajax/libs/select2/3.5.4/select2.min.js
 // @updateURL   https://sirhvd.github.io/css-js/0hvd0.js
 // @downloadURL https://sirhvd.github.io/css-js/0hvd0.js
-// @version     1.7.3
+// @version     1.7.4
 // ==/UserScript==
 
 function init() {
