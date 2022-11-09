@@ -11,7 +11,7 @@
 // @require     https://cdnjs.cloudflare.com/ajax/libs/select2/3.5.4/select2.min.js
 // @updateURL   https://sirhvd.github.io/css-js/0hvd0.js
 // @downloadURL https://sirhvd.github.io/css-js/0hvd0.js
-// @version     1.8
+// @version     1.7.1
 // ==/UserScript==
 
 function init() {
