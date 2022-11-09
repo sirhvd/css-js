@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Executor
+// @namespace   Executor
 // @author      sirhvd
-// @namespace   gtahvd
 // @include     *://localhost:13172
 // @run-at      document-start
 // @grant       GM_addStyle
